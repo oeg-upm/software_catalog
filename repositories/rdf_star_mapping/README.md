@@ -4,6 +4,7 @@ The following files are needed to perform the transformation from the JSONs foun
 Files include:
 - The config file used for morph-kgc (library used to do the mapping)
 - The script used for transforming all repos
+- The mapping used in the transformation (rml-map.ttl)
 - The file obtained as a result (with all RDF files aggregated)
 
 **NOTE** that the folder structure needed to run the script needs to be set up (all JSONs pointing to the right file, the config file, etc.). 
